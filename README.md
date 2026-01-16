@@ -1,8 +1,8 @@
 ## 📊 Sales Performance Analysis & Business Insights
 
--- Author: Sunny Vo
--- Date: 01/2026
--- Tools Used: Power BI, DAX
+- Author: Sunny Vo
+- Date: 01/2026
+- Tools Used: Power BI, DAX
 
 ---
 
