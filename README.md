@@ -8,15 +8,15 @@
 
 ### 🧾 Table of Contents (TOCs)
 
-Background & Overview
+- Background & Overview
 
-Dataset Description
+- Dataset Description
 
-Data Modeling & Metrics Definition (DAX)
+- Data Modeling & Metrics Definition (DAX)
 
-Key Insights & Visualizations
+- Key Insights & Visualizations
 
-Recommendations
+- Recommendations
 
 ---
 
