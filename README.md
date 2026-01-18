@@ -172,12 +172,14 @@ to highlight growth trends and performance changes across dashboards.
 The following recommendations are derived from dashboard insights:
 
 Stakeholder	Focus Area	Insight	Recommendation:
-- Management	Revenue Growth	Revenue growth is driven mainly by volume rather than AOV	Introduce targeted pricing and bundling strategies to increase basket size
-- Marketing	Customer Retention	Retention rate is low despite new customer growth	Develop loyalty programs for high-value and returning customers
-- Product Team	Product Strategy	Revenue is concentrated in a few categories	Expand and promote mid-performing categories with strong margins
-- Operations	Store Efficiency	Large stores outperform smaller ones	Reassess store footprint and optimize or consolidate underperforming locations
+## 💡 Recommendations
 
----
+| Stakeholder | Focus Area | Insight | Recommendation |
+|------------|----------|--------|---------------|
+| Management | Revenue Growth | Growth is driven mainly by volume, not AOV | Introduce targeted pricing and bundling strategies |
+| Marketing | Customer Retention | Low retention rate despite customer growth | Develop loyalty programs for high-value segments |
+| Product Team | Product Mix | Revenue concentrated in few categories | Expand mid-performing categories with strong margins |
+| Operations | Store Efficiency | Large stores outperform small stores | Reassess store footprint and optimize underperforming locations |
 
 ### 🎯 Project Impact
 
