@@ -113,13 +113,13 @@ to highlight growth trends and performance changes across dashboards.
 
 - The Overview Dashboard presents a high-level assessment of the company’s overall business performance, allowing stakeholders to quickly evaluate growth trends, scale, and stability over time.
 
-- Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
+     - Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
 
--- In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
+    -  In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
 
--- When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
+    -  When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
 
-** Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.**
+**Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.**
 #### II. Customer Behavior Analysis
 
   <img width="1850" height="1044" alt="image" src="https://github.com/user-attachments/assets/74185023-863e-4ca9-9df5-8b5692753df4" />
@@ -128,13 +128,13 @@ to highlight growth trends and performance changes across dashboards.
 
 - Overall, customer-related metrics show stable revenue growth, but the underlying behavior indicates a heavy reliance on existing customers rather than strong retention or basket expansion.
 
--- From the dashboard, returning customers generate the majority of total revenue, while new customers contribute a smaller share. This suggests that the business currently depends on its existing customer base to sustain revenue growth. However, despite the inflow of new customers, the customer retention rate remains relatively low, indicating that many customers do not make repeat purchases over time.
+   - From the dashboard, returning customers generate the majority of total revenue, while new customers contribute a smaller share. This suggests that the business currently depends on its existing customer base to sustain revenue growth. However, despite the inflow of new customers, the customer retention rate remains relatively low, indicating that many customers do not make repeat purchases over time.
 
--- In terms of purchase behavior, the Average Order Value (AOV) declined slightly by 0.56% year-over-year. While the change is not large, it suggests that customers are either purchasing fewer items per order or shifting toward lower-priced products. This aligns with the observation that average items per order remain relatively flat, indicating limited basket-size growth.
+   -  In terms of purchase behavior, the Average Order Value (AOV) declined slightly by 0.56% year-over-year. While the change is not large, it suggests that customers are either purchasing fewer items per order or shifting toward lower-priced products. This aligns with the observation that average items per order remain relatively flat, indicating limited basket-size growth.
 
--- Demographic analysis shows that customers aged 60 and above generate the highest share of revenue, outperforming younger age groups. This implies that older customers tend to have higher purchasing power or stronger purchasing intent. Geographically, North America contributes over 60% of total global revenue, highlighting a strong regional concentration and potential exposure to regional demand fluctuations.
+   - Demographic analysis shows that customers aged 60 and above generate the highest share of revenue, outperforming younger age groups. This implies that older customers tend to have higher purchasing power or stronger purchasing intent. Geographically, North America contributes over 60% of total global revenue, highlighting a strong regional concentration and potential exposure to regional demand fluctuations.
 
-** Overall, while revenue growth remains positive, the customer analysis reveals structural weaknesses in retention and basket growth, suggesting that long-term revenue sustainability may be at risk without targeted loyalty or engagement strategies.**
+**Overall, while revenue growth remains positive, the customer analysis reveals structural weaknesses in retention and basket growth, suggesting that long-term revenue sustainability may be at risk without targeted loyalty or engagement strategies.**
 
 #### III. Product Performance Analysis
 
@@ -142,13 +142,13 @@ to highlight growth trends and performance changes across dashboards.
 
 - The Product Performance Dashboard evaluates how revenue is distributed across product categories, brands, and pricing levels, and whether volume and profitability are aligned.
 
--- At a high level, Computers and Home Appliances emerge as the dominant revenue-generating categories, contributing the largest share of total sales. However, revenue concentration is uneven, as a small number of brands account for a disproportionate share of total revenue, indicating dependency on a limited product portfolio.
+   - At a high level, Computers and Home Appliances emerge as the dominant revenue-generating categories, contributing the largest share of total sales. However, revenue concentration is uneven, as a small number of brands account for a disproportionate share of total revenue, indicating dependency on a limited product portfolio.
 
--- The relationship between price and quantity reveals a clear price–volume trade-off. Several brands operate in a high-price, low-volume position, forming a “premium niche” where higher margins are achieved but sales volume remains limited. Conversely, many mid-priced brands achieve strong sales volume but lower gross profit margins, suggesting competitive pricing pressure or higher cost structures.
+   - The relationship between price and quantity reveals a clear price–volume trade-off. Several brands operate in a high-price, low-volume position, forming a “premium niche” where higher margins are achieved but sales volume remains limited. Conversely, many mid-priced brands achieve strong sales volume but lower gross profit margins, suggesting competitive pricing pressure or higher cost structures.
 
--- This imbalance indicates that revenue growth is driven more by volume-heavy, mid-priced products rather than margin expansion. While premium products contribute to profitability, their low volume limits overall revenue impact.
+   - This imbalance indicates that revenue growth is driven more by volume-heavy, mid-priced products rather than margin expansion. While premium products contribute to profitability, their low volume limits overall revenue impact.
 
-** Overall, the product analysis suggests opportunities to rebalance the product mix, either by improving margins on high-volume products or by increasing volume for premium offerings through targeted positioning or promotion.**
+**Overall, the product analysis suggests opportunities to rebalance the product mix, either by improving margins on high-volume products or by increasing volume for premium offerings through targeted positioning or promotion.**
  
 #### IV. Store Performance Analysis
 
@@ -156,13 +156,13 @@ to highlight growth trends and performance changes across dashboards.
 
 - The Store Performance Dashboard focuses on operational efficiency and revenue contribution across different store formats, regions, and channels.
 
--- The analysis shows that large stores (over 1000 m²) generate more than 65% of total revenue, significantly outperforming medium and small stores. This indicates that store size plays a major role in revenue generation, likely due to greater product assortment and customer capacity.
+   - The analysis shows that large stores (over 1000 m²) generate more than 65% of total revenue, significantly outperforming medium and small stores. This indicates that store size plays a major role in revenue generation, likely due to greater product assortment and customer capacity.
 
--- Channel comparison further reveals that online stores outperform many physical locations, highlighting the growing importance of digital channels in overall business performance. Despite this, physical stores still account for a substantial share of revenue, suggesting that the business operates in a hybrid retail model rather than being fully digital-led.
+   - Channel comparison further reveals that online stores outperform many physical locations, highlighting the growing importance of digital channels in overall business performance. Despite this, physical stores still account for a substantial share of revenue, suggesting that the business operates in a hybrid retail model rather than being fully digital-led.
 
--- Efficiency metrics such as revenue per store and revenue per square meter vary widely across regions, indicating inconsistent store performance. Some stores generate strong revenue relative to their footprint, while others underperform despite similar size or location attributes. Importantly, the dashboard shows that store size has a stronger correlation with revenue than store age, suggesting that newer stores do not automatically outperform older ones.
+   - Efficiency metrics such as revenue per store and revenue per square meter vary widely across regions, indicating inconsistent store performance. Some stores generate strong revenue relative to their footprint, while others underperform despite similar size or location attributes. Importantly, the dashboard shows that store size has a stronger correlation with revenue than store age, suggesting that newer stores do not automatically outperform older ones.
 
-Overall, the store analysis points to uneven resource utilization across the store network, implying that optimizing store footprint, channel focus, and regional strategy could significantly improve operational efficiency and profitability.
+**Overall, the store analysis points to uneven resource utilization across the store network, implying that optimizing store footprint, channel focus, and regional strategy could significantly improve operational efficiency and profitability.**
 ---
 
 ### 💡 Recommendations
