@@ -59,7 +59,8 @@ The final solution consists of four interactive Power BI report pages, each focu
 
 6. How efficiently are store resources being utilized?
 
-<img width="1860" height="1058" alt="image" src="https://github.com/user-attachments/assets/647a5a58-13ff-475c-8d99-10e838c159ec" />
+<img width="1848" height="1024" alt="image" src="https://github.com/user-attachments/assets/78822f65-c992-4607-a1d9-436034fc47ea" />
+
 
 
 ---
