@@ -119,7 +119,7 @@ to highlight growth trends and performance changes across dashboards.
 
    - When viewed across all years, changes in revenue closely follow changes in order volume and customer count, while average items per order remain relatively stable. This indicates that revenue fluctuations are driven more by how often customers purchase rather than by customers buying significantly more items per transaction.
 
-**Overall, Across all years, business performance is closely linked to customer participation and order activity. Periods of weaker revenue coincide with fewer orders and fewer active customers, highlighting demand volume as a key driver of overall performance.**
+**Overall, across all years, business performance is closely linked to customer participation and order activity. Periods of weaker revenue coincide with fewer orders and fewer active customers, highlighting demand volume as a key driver of overall performance.**
 
 #### II. Customer Behavior Analysis
 
