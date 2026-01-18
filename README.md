@@ -176,6 +176,8 @@ to highlight growth trends and performance changes across dashboards.
 | Product Team | Product Mix | Revenue concentrated in few categories | Expand mid-performing categories with strong margins |
 | Operations | Store Efficiency | Large stores outperform small stores | Reassess store footprint and optimize underperforming locations |
 
+---
+
 ### 🎯 Project Impact
 
 This Power BI dashboard delivers a clear, data-driven view of business performance, enabling stakeholders to:
