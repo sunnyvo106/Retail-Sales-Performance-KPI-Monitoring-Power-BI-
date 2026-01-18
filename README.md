@@ -121,7 +121,6 @@ to highlight growth trends and performance changes across dashboards.
 
 **Overall, Across all years, business performance is closely linked to customer participation and order activity. Periods of weaker revenue coincide with fewer orders and fewer active customers, highlighting demand volume as a key driver of overall performance.**
 
-**Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.**
 #### II. Customer Behavior Analysis
 
   <img width="1850" height="1044" alt="image" src="https://github.com/user-attachments/assets/74185023-863e-4ca9-9df5-8b5692753df4" />
