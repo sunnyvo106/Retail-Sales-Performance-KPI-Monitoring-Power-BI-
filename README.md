@@ -111,13 +111,15 @@ to highlight growth trends and performance changes across dashboards.
 
 <img width="1816" height="1026" alt="image" src="https://github.com/user-attachments/assets/f95f24e4-f415-4032-acde-5d879b45b482" />
 
-- The Overview Dashboard presents a high-level assessment of the company’s overall business performance, allowing stakeholders to quickly evaluate growth trends, scale, and stability over time.
+- The Overview Dashboard highlights how revenue, orders, customers, and sales volume move together across the years, indicating that overall performance is strongly driven by customer activity and transaction volume.
 
-     - Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
+   - Across the period analysed, the business reaches a peak before experiencing a noticeable downturn. In the most recent year shown, Total Revenue is $9.3M, compared with a significantly higher level in the prior year, representing an approximate 49% year-over-year decline. This decline is consistent across other core metrics, including Orders (5K), Distinct Customers (4K), and Total Quantity Sold (34.5K units), all of which decrease by roughly 40–50% YoY.
 
-    -  In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
+   - Monthly trends show that performance is not evenly distributed throughout the year. While January and February record relatively stronger results, most subsequent months perform below the prior year, with several months showing declines greater than 60% YoY. This suggests that the reduction in performance is sustained over time rather than limited to a short period.
 
-    -  When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
+   - When viewed across all years, changes in revenue closely follow changes in order volume and customer count, while average items per order remain relatively stable. This indicates that revenue fluctuations are driven more by how often customers purchase rather than by customers buying significantly more items per transaction.
+
+**Overall, Across all years, business performance is closely linked to customer participation and order activity. Periods of weaker revenue coincide with fewer orders and fewer active customers, highlighting demand volume as a key driver of overall performance.**
 
 **Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.**
 #### II. Customer Behavior Analysis
