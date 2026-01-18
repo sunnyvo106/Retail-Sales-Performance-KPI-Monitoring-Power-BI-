@@ -66,9 +66,9 @@ The final solution consists of four interactive Power BI report pages, each focu
 ---
 
 ### 📊 Dataset Description
-📌[**Datasets**]() – Project datasets provided as CSV files  
+📌[**Datasets**](https://github.com/sunnyvo106/Retail-Sales-Performance-KPI-Monitoring-Power-BI-/tree/main/datasets) – Project datasets provided as CSV files  
 
-Structure: Relational dataset
+- Structure: Relational dataset
 
 The dataset consists of four core tables:
 
