@@ -47,17 +47,20 @@ The final solution consists of four interactive Power BI report pages, each focu
 
 #### ❓ Business Questions
 
-How is the business performing year-over-year?
+1. How is the business performing year-over-year?
 
-Which products and categories contribute most to total revenue?
+2. Which products and categories contribute most to total revenue?
 
-What customer segments generate the highest value?
+3. What customer segments generate the highest value?
 
-Are returning customers driving revenue growth?
+4. Are returning customers driving revenue growth?
 
-Which stores and regions perform best and why?
+5. Which stores and regions perform best and why?
 
-How efficiently are store resources being utilized?
+6. How efficiently are store resources being utilized?
+
+<img width="1860" height="1058" alt="image" src="https://github.com/user-attachments/assets/647a5a58-13ff-475c-8d99-10e838c159ec" />
+
 
 ---
 
