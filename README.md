@@ -111,15 +111,15 @@ to highlight growth trends and performance changes across dashboards.
 
 <img width="1816" height="1026" alt="image" src="https://github.com/user-attachments/assets/f95f24e4-f415-4032-acde-5d879b45b482" />
 
-The Overview Dashboard presents a high-level assessment of the company’s overall business performance, allowing stakeholders to quickly evaluate growth trends, scale, and stability over time.
+- The Overview Dashboard presents a high-level assessment of the company’s overall business performance, allowing stakeholders to quickly evaluate growth trends, scale, and stability over time.
 
-Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
+- Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
 
-In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
+-- In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
 
-When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
+-- When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
 
-Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.
+** Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.**
 #### II. Customer Behavior Analysis
 
   <img width="1850" height="1044" alt="image" src="https://github.com/user-attachments/assets/74185023-863e-4ca9-9df5-8b5692753df4" />
