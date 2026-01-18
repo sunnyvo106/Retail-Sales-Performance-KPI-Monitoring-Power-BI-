@@ -115,7 +115,7 @@ to highlight growth trends and performance changes across dashboards.
 
    - Across the period analysed, the business reaches a peak before experiencing a noticeable downturn. In the most recent year shown (2020), Total Revenue is $9.3M, compared with a significantly higher level in the prior year, representing an approximate 49% year-over-year decline. This decline is consistent across other core metrics, including Orders (5K), Distinct Customers (4K), and Total Quantity Sold (34.5K units), all of which decrease by roughly 40–50% YoY.
 
-   - Monthly trends show that performance is not evenly distributed throughout the year. While January and February record relatively stronger results, most subsequent months perform below the prior year, with several months showing declines greater than 60% YoY. This suggests that the reduction in performance is sustained over time rather than limited to a short period.
+   - Monthly trends (2020) show that performance is not evenly distributed throughout the year. While January and February record relatively stronger results, most subsequent months perform below the prior year, with several months showing declines greater than 60% YoY. This suggests that the reduction in performance is sustained over time rather than limited to a short period.
 
    - When viewed across all years, changes in revenue closely follow changes in order volume and customer count, while average items per order remain relatively stable. This indicates that revenue fluctuations are driven more by how often customers purchase rather than by customers buying significantly more items per transaction.
 
