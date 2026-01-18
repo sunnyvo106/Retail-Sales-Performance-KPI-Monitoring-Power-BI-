@@ -66,25 +66,19 @@ The final solution consists of four interactive Power BI report pages, each focu
 ---
 
 ### 📊 Dataset Description
-📌 Data Source
-
-Source: Provided dataset
-
-Format: CSV
+📌[**Datasets**]() – Project datasets provided as CSV files  
 
 Structure: Relational dataset
 
-📂 Tables Included
-
 The dataset consists of four core tables:
 
-Sales – Transaction-level sales data including order date, quantity, revenue, product ID, customer ID, and store ID
+- Sales – Transaction-level sales data including order date, quantity, revenue, product ID, customer ID, and store ID
 
-Products – Product information such as product name, category, subcategory, brand, and cost
+- Products – Product information such as product name, category, subcategory, brand, and cost
 
-Customers – Customer demographic data including age group, gender, and geographic location
+- Customers – Customer demographic data including age group, gender, and geographic location
 
-Stores – Store details including country, state, store size, footprint, and operational attributes
+- Stores – Store details including country, state, store size, footprint, and operational attributes
 
 These tables are integrated to support end-to-end business analysis.
 
