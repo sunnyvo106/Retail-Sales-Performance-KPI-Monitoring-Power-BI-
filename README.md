@@ -113,7 +113,7 @@ to highlight growth trends and performance changes across dashboards.
 
 - The Overview Dashboard highlights how revenue, orders, customers, and sales volume move together across the years, indicating that overall performance is strongly driven by customer activity and transaction volume.
 
-   - Across the period analysed, the business reaches a peak before experiencing a noticeable downturn. In the most recent year shown, Total Revenue is $9.3M, compared with a significantly higher level in the prior year, representing an approximate 49% year-over-year decline. This decline is consistent across other core metrics, including Orders (5K), Distinct Customers (4K), and Total Quantity Sold (34.5K units), all of which decrease by roughly 40–50% YoY.
+   - Across the period analysed, the business reaches a peak before experiencing a noticeable downturn. In the most recent year shown (2020), Total Revenue is $9.3M, compared with a significantly higher level in the prior year, representing an approximate 49% year-over-year decline. This decline is consistent across other core metrics, including Orders (5K), Distinct Customers (4K), and Total Quantity Sold (34.5K units), all of which decrease by roughly 40–50% YoY.
 
    - Monthly trends show that performance is not evenly distributed throughout the year. While January and February record relatively stronger results, most subsequent months perform below the prior year, with several months showing declines greater than 60% YoY. This suggests that the reduction in performance is sustained over time rather than limited to a short period.
 
