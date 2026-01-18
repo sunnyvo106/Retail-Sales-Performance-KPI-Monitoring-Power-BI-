@@ -162,8 +162,9 @@ to highlight growth trends and performance changes across dashboards.
    - Channel comparison further reveals that online stores outperform many physical locations, highlighting the growing importance of digital channels in overall business performance. Despite this, physical stores still account for a substantial share of revenue, suggesting that the business operates in a hybrid retail model rather than being fully digital-led.
 
    - Efficiency metrics such as revenue per store and revenue per square meter vary widely across regions, indicating inconsistent store performance. Some stores generate strong revenue relative to their footprint, while others underperform despite similar size or location attributes. Importantly, the dashboard shows that store size has a stronger correlation with revenue than store age, suggesting that newer stores do not automatically outperform older ones.
-
+     
 **Overall, the store analysis points to uneven resource utilization across the store network, implying that optimizing store footprint, channel focus, and regional strategy could significantly improve operational efficiency and profitability.**
+
 ---
 
 ### 💡 Recommendations
