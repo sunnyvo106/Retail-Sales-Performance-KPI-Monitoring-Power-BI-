@@ -167,11 +167,6 @@ to highlight growth trends and performance changes across dashboards.
 
 ---
 
-### 💡 Recommendations
-
-The following recommendations are derived from dashboard insights:
-
-Stakeholder	Focus Area	Insight	Recommendation:
 ## 💡 Recommendations
 
 | Stakeholder | Focus Area | Insight | Recommendation |
