@@ -89,33 +89,20 @@ These tables are integrated to support end-to-end business analysis.
 
 A star schema was implemented in Power BI to ensure accurate aggregation and efficient filtering:
 
-Fact Table: Sales
+- Fact Table: Sales
 
-Dimension Tables: Products, Customers, Stores, Date
+- Dimension Tables: Products, Customers, Stores, Date
 
 This data model enables flexible analysis across time, geography, customer segments, product hierarchies, and store attributes.
 
+<img width="1500" height="1112" alt="image" src="https://github.com/user-attachments/assets/ee06c85c-c9b7-483b-8e06-c45fd34cb576" />
+
+
 #### 📐 Key Metrics & DAX Calculations
 
-Several DAX measures were created to calculate core business KPIs:
-
-Total Revenue
-
-Total Quantity Sold
-
-Number of Orders
-
-Number of Distinct Customers
-
-Average Order Value (AOV)
-
-Customer Retention Rate
-
-Gross Profit Margin
-
-Year-over-Year (YoY) Growth %
-
-Custom measures were also developed to compare current year vs last year performance and visually highlight positive and negative trends across the dashboards.
+DAX measures were developed to track core business performance across revenue,
+orders, customers, and profitability, with year-over-year comparisons used
+to highlight growth trends and performance changes across dashboards.
 
 ---
 
@@ -123,6 +110,8 @@ Custom measures were also developed to compare current year vs last year perform
 #### I. Overview – Business Performance
 
 The Overview Dashboard provides a high-level snapshot of the company’s overall performance.
+
+<img width="1816" height="1026" alt="image" src="https://github.com/user-attachments/assets/f95f24e4-f415-4032-acde-5d879b45b482" />
 
 Key insights:
 
@@ -138,63 +127,58 @@ Monthly revenue trends show consistent performance throughout the year, with str
 
 #### II. Customer Behavior Analysis
 
-This dashboard focuses on understanding customer purchasing behavior and retention.
+  <img width="1850" height="1044" alt="image" src="https://github.com/user-attachments/assets/74185023-863e-4ca9-9df5-8b5692753df4" />
 
-Key insights:
+- This dashboard provides insight into how customers contribute to revenue and how sustainable that contribution is over time.
 
-Returning customers generate the majority of total revenue
+- Overall, customer-related metrics show stable revenue growth, but the underlying behavior indicates a heavy reliance on existing customers rather than strong retention or basket expansion.
 
-Average Order Value (AOV) slightly declined (-0.56% YoY), indicating potential pricing or basket-size challenges
+-- From the dashboard, returning customers generate the majority of total revenue, while new customers contribute a smaller share. This suggests that the business currently depends on its existing customer base to sustain revenue growth. However, despite the inflow of new customers, the customer retention rate remains relatively low, indicating that many customers do not make repeat purchases over time.
 
-Customers aged 60+ generate the highest revenue among all age groups
+-- In terms of purchase behavior, the Average Order Value (AOV) declined slightly by 0.56% year-over-year. While the change is not large, it suggests that customers are either purchasing fewer items per order or shifting toward lower-priced products. This aligns with the observation that average items per order remain relatively flat, indicating limited basket-size growth.
 
-North America contributes over 60% of total global revenue
+-- Demographic analysis shows that customers aged 60 and above generate the highest share of revenue, outperforming younger age groups. This implies that older customers tend to have higher purchasing power or stronger purchasing intent. Geographically, North America contributes over 60% of total global revenue, highlighting a strong regional concentration and potential exposure to regional demand fluctuations.
 
-Despite growth in new customers, the customer retention rate remains relatively low, highlighting an opportunity to improve long-term customer loyalty.
+** Overall, while revenue growth remains positive, the customer analysis reveals structural weaknesses in retention and basket growth, suggesting that long-term revenue sustainability may be at risk without targeted loyalty or engagement strategies.**
 
 #### III. Product Performance Analysis
 
-The Product Performance Dashboard evaluates how products, categories, and brands contribute to revenue.
+<img width="1860" height="1044" alt="image" src="https://github.com/user-attachments/assets/7abbac31-f31f-4cf7-8868-804c26e177f9" />
 
-Key insights:
+- The Product Performance Dashboard evaluates how revenue is distributed across product categories, brands, and pricing levels, and whether volume and profitability are aligned.
 
-Computers and Home Appliances are the top revenue-generating categories
+-- At a high level, Computers and Home Appliances emerge as the dominant revenue-generating categories, contributing the largest share of total sales. However, revenue concentration is uneven, as a small number of brands account for a disproportionate share of total revenue, indicating dependency on a limited product portfolio.
 
-A small number of brands drive a disproportionate share of total revenue
+-- The relationship between price and quantity reveals a clear price–volume trade-off. Several brands operate in a high-price, low-volume position, forming a “premium niche” where higher margins are achieved but sales volume remains limited. Conversely, many mid-priced brands achieve strong sales volume but lower gross profit margins, suggesting competitive pricing pressure or higher cost structures.
 
-Some high-priced products fall into a “premium niche” category with low sales volume
+-- This imbalance indicates that revenue growth is driven more by volume-heavy, mid-priced products rather than margin expansion. While premium products contribute to profitability, their low volume limits overall revenue impact.
 
-Several mid-priced products achieve strong volume but lower margins
-
-These findings indicate opportunities to optimize pricing strategy and product mix.
-
+** Overall, the product analysis suggests opportunities to rebalance the product mix, either by improving margins on high-volume products or by increasing volume for premium offerings through targeted positioning or promotion.**
+ 
 #### IV. Store Performance Analysis
 
-This dashboard assesses store efficiency and operational performance.
+<img width="1852" height="1042" alt="image" src="https://github.com/user-attachments/assets/e7497bec-6d35-4e8f-87f0-7abe2c4a8c0b" />
 
-Key insights:
+- The Store Performance Dashboard focuses on operational efficiency and revenue contribution across different store formats, regions, and channels.
 
-Large stores (>1000 m²) generate over 65% of total revenue
+-- The analysis shows that large stores (over 1000 m²) generate more than 65% of total revenue, significantly outperforming medium and small stores. This indicates that store size plays a major role in revenue generation, likely due to greater product assortment and customer capacity.
 
-Online stores outperform many physical locations
+-- Channel comparison further reveals that online stores outperform many physical locations, highlighting the growing importance of digital channels in overall business performance. Despite this, physical stores still account for a substantial share of revenue, suggesting that the business operates in a hybrid retail model rather than being fully digital-led.
 
-Revenue per store and revenue per square meter vary significantly across regions
+-- Efficiency metrics such as revenue per store and revenue per square meter vary widely across regions, indicating inconsistent store performance. Some stores generate strong revenue relative to their footprint, while others underperform despite similar size or location attributes. Importantly, the dashboard shows that store size has a stronger correlation with revenue than store age, suggesting that newer stores do not automatically outperform older ones.
 
-Store size has a stronger correlation with revenue than store age
-
-This suggests that store footprint optimization could significantly improve business efficiency.
-
+Overall, the store analysis points to uneven resource utilization across the store network, implying that optimizing store footprint, channel focus, and regional strategy could significantly improve operational efficiency and profitability.
 ---
 
 ### 💡 Recommendations
 
 The following recommendations are derived from dashboard insights:
 
-Stakeholder	Focus Area	Insight	Recommendation
-Management	Revenue Growth	Revenue growth is driven mainly by volume rather than AOV	Introduce targeted pricing and bundling strategies to increase basket size
-Marketing	Customer Retention	Retention rate is low despite new customer growth	Develop loyalty programs for high-value and returning customers
-Product Team	Product Strategy	Revenue is concentrated in a few categories	Expand and promote mid-performing categories with strong margins
-Operations	Store Efficiency	Large stores outperform smaller ones	Reassess store footprint and optimize or consolidate underperforming locations
+Stakeholder	Focus Area	Insight	Recommendation:
+- Management	Revenue Growth	Revenue growth is driven mainly by volume rather than AOV	Introduce targeted pricing and bundling strategies to increase basket size
+- Marketing	Customer Retention	Retention rate is low despite new customer growth	Develop loyalty programs for high-value and returning customers
+- Product Team	Product Strategy	Revenue is concentrated in a few categories	Expand and promote mid-performing categories with strong margins
+- Operations	Store Efficiency	Large stores outperform smaller ones	Reassess store footprint and optimize or consolidate underperforming locations
 
 ---
 
@@ -202,10 +186,10 @@ Operations	Store Efficiency	Large stores outperform smaller ones	Reassess store 
 
 This Power BI dashboard delivers a clear, data-driven view of business performance, enabling stakeholders to:
 
-Monitor KPIs efficiently
+- Monitor KPIs efficiently
 
-Identify revenue drivers and operational risks
+- Identify revenue drivers and operational risks
 
-Understand customer, product, and store dynamics
+- Understand customer, product, and store dynamics
 
-Support strategic and operational decision-making
+- Support strategic and operational decision-making
