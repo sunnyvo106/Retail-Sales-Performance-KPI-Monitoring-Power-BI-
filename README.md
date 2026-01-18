@@ -100,7 +100,7 @@ This data model enables flexible analysis across time, geography, customer segme
 
 #### 📐 Key Metrics & DAX Calculations
 
-DAX measures were developed to track core business performance across revenue,
+- DAX measures were developed to track core business performance across revenue,
 orders, customers, and profitability, with year-over-year comparisons used
 to highlight growth trends and performance changes across dashboards.
 
@@ -109,22 +109,17 @@ to highlight growth trends and performance changes across dashboards.
 ### 📊 Key Insights & Visualizations
 #### I. Overview – Business Performance
 
-The Overview Dashboard provides a high-level snapshot of the company’s overall performance.
-
 <img width="1816" height="1026" alt="image" src="https://github.com/user-attachments/assets/f95f24e4-f415-4032-acde-5d879b45b482" />
 
-Key insights:
+The Overview Dashboard presents a high-level assessment of the company’s overall business performance, allowing stakeholders to quickly evaluate growth trends, scale, and stability over time.
 
-Total Revenue reached $55.8M, reflecting a +12.14% year-over-year growth
+Overall, the business demonstrates healthy year-over-year growth, with Total Revenue reaching $55.8M, representing a +12.14% increase compared to the previous year. This growth indicates positive market demand and effective sales execution at an aggregate level.
 
-Total Quantity Sold increased to 197.8K units
+In terms of sales volume, Total Quantity Sold increased to 197.8K units, supported by 26K total orders, suggesting that revenue growth is driven by a combination of increased transaction volume and consistent customer demand rather than a small number of high-value transactions. While the number of Distinct Customers reached 12K, customer growth remains more moderate compared to revenue growth, implying that revenue expansion is currently achieved more through purchasing behavior than through rapid customer base expansion.
 
-The number of Orders reached 26K, indicating steady demand
+When examining performance over time, monthly revenue trends remain relatively stable throughout the year, with no extreme volatility. However, stronger results are observed in the final months of the year, indicating the presence of seasonal demand effects. These periods consistently outperform earlier months, suggesting that certain times of the year contribute disproportionately to annual revenue.
 
-Distinct Customers totaled 12K, with moderate growth compared to revenue
-
-Monthly revenue trends show consistent performance throughout the year, with stronger results in the final months, suggesting seasonal demand effects.
-
+Overall, the overview highlights a business that is growing steadily and operating at scale, but also reveals early signals of revenue concentration by season and purchasing behavior, which warrant deeper investigation into customer retention, product mix, and channel efficiency in subsequent analyses.
 #### II. Customer Behavior Analysis
 
   <img width="1850" height="1044" alt="image" src="https://github.com/user-attachments/assets/74185023-863e-4ca9-9df5-8b5692753df4" />
