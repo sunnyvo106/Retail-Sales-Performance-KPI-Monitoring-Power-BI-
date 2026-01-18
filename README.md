@@ -27,23 +27,23 @@ This project focuses on building a Power BI dashboard that enables stakeholders 
 
 Using a structured analytical approach, the dashboard provides a multi-dimensional and comprehensive view of the company’s operations, helping decision-makers:
 
-Understand overall business performance
+- Understand overall business performance
 
-Track key KPIs year-over-year
+- Track key KPIs year-over-year
 
-Identify revenue drivers and underperforming areas
+- Identify revenue drivers and underperforming areas
 
-Optimize customer, product, and store strategies
+- Optimize customer, product, and store strategies
 
 The final solution consists of four interactive Power BI report pages, each focusing on a core business dimension.
 
 #### 🥷 Who is this project for?
 
-Executive & Management Team
+- Executive & Management Team
 
-Sales & Marketing Team
+- Sales & Marketing Team
 
-Operations & Store Management Team
+- Operations & Store Management Team
 
 #### ❓ Business Questions
 
